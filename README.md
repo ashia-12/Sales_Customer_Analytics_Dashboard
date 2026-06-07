@@ -115,7 +115,7 @@ The Product Dashboard provides detailed product-level performance insights.
 
 ### [Ashia Parveen]
 
-Aspiring Data Analyst | Power BI Enthusiast
+Data Analyst
 
 - LinkedIn: [Ashia](https://www.linkedin.com/in/ashia-parveen-141b39188)
 
